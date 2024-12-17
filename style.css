@@ -1,0 +1,8 @@
+*{
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: linear-gradient(0deg, #999999 0%, #ffffff 100%);
+}
